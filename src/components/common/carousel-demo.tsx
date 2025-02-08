@@ -6,7 +6,7 @@ import {
     CarouselNext,
     CarouselPrevious,
 } from "@/components/ui/carousel";
-import { equipmentData } from "@/constant";
+import { equipmentData } from "@/utils/constant";
 
 export function CarouselDemo() {
     return (

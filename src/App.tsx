@@ -1,11 +1,11 @@
 import { IceCream } from "lucide-react";
-import MenubarComponent from "./components/menubar/menu-bar";
+import MenubarComponent from "./components/common/menu-bar";
 import { Button } from "./components/ui/button";
 
 import { Progress } from "./components/ui/progress";
-import { CardWithForm } from "./components/cards/card-with-form";
-import { CarouselDemo } from "./components/carousel/carousel-demo";
-import { AlertDialogDemo } from "./components/alert dialog/alert-dialog-demo";
+import { CardWithForm } from "./components/common/card-with-form";
+import { CarouselDemo } from "./components/common/carousel-demo";
+import { AlertDialogDemo } from "./components/common/alert-dialog-demo";
 
 const App = () => {
     return (
