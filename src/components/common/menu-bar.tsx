@@ -16,7 +16,7 @@ import {
 
 const MenubarComponent = () => {
     return (
-        <Menubar className='w-[400px]'>
+        <Menubar className='w-fit'>
             <MenubarMenu>
                 <MenubarTrigger>File</MenubarTrigger>
                 <MenubarContent className=''>
